@@ -1,6 +1,6 @@
 # Landing Page Tesla
 
-![Tesla Landing Page](https://raw.githubusercontent.com/jbarrera094/landing-tesla/public/screen-landing-tesla.png)
+![Tesla Landing Page](https://github.com/jbarrera094/landing-tesla/blob/main/public/screen-landing-tesla.png?raw=true)
 
 ## 🚀 Project Structure
 
