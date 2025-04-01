@@ -1,5 +1,7 @@
 ---
 import Section from "./Section.astro";
+
+const BASE_URL = import.meta.env.BASE_URL;
 ---
 
 <Section
@@ -21,5 +23,5 @@ import Section from "./Section.astro";
     autoplay
     muted
     loop
-    src="/public_video.webm"></video>
+    src={`${BASE_URL}/public_video.webm`}></video>
 </Section>
